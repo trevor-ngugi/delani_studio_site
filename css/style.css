@@ -79,6 +79,28 @@ body{
     margin-left: 35%;
 }
 
+.design-hidden {
+    display: none;
+  }
+  .development-hidden {
+    display: none;
+  }
+  .product-hidden {
+    display: none;
+  }
+  .clickable1 {
+    cursor: pointer;
+    
+  }
+  .clickable2 {
+    cursor: pointer;
+    
+  }
+  .clickable3 {
+    cursor: pointer;
+    
+  }
+
 
 
 
