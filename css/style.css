@@ -67,7 +67,16 @@ body{
     background: whitesmoke;
     height:auto;
 }
- 
+.section6{
+    text-align: center;
+    background-image:url(assets/images/mechanical.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+} 
+.social{
+    margin-left: 35%;
+}
 
 
 
