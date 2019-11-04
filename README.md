@@ -1,15 +1,17 @@
-# Delani Studio
+# delani studio
+#### Brief landing page for delani studio
+#### By trevor ngugi
+## Description
+this is a website landing page which shows delani studio project of IP3
+## Setup/Installation Requirements
+enter the url website
+## Known Bugs
+cannot hold information of user email
+## Technologies Used
+*used html ,used custom css,used javascript
+## Support and contact details
+email:ngugitrevor@gmail.com
 
-## Authors
-- [iantheninja](https://github.com/iantheninja)
-
-## Project setup instructions
-To start using this project use the following commands:
-
-- `git clone https://github.com/moringaschool/hello-world.git`
-- `cd hello-world`
-- `atom .`
-- `code .` [//]: # (this is if Visual Studio Code is your preferred text editor)
 
 ## License info
 MIT License
