@@ -101,6 +101,14 @@ body{
     
   }
 
+  .col-md-3{
+      padding: 20px;
+       
+  }
+  .col-md-3 img{
+    width:250px
+  }
+
 
 
 
