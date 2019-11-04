@@ -108,6 +108,9 @@ body{
   .col-md-3 img{
     width:250px
   }
+  .col-md-3 :hover{
+      opacity:0.5;
+}
 
 
 
