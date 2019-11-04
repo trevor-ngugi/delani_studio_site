@@ -1,7 +1,8 @@
+ 
 $(document).ready(function() {
     $(".clickable1").click(function() {
-      $(".design-showing").toggle();
       $(".design-hidden").toggle();
+      $(".design-showing").toggle();
     });
   });
   $(document).ready(function() {
@@ -16,5 +17,4 @@ $(document).ready(function() {
       $(".product-showing").toggle();
     });
   });
-
 
