@@ -19,6 +19,8 @@ body{
 }
 .section1{
     background: url(assets/h_img.jpg) no-repeat;
+    background-position: center;
+    background-size: 100%;
     
 }
 .logo{
